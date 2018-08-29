@@ -74,6 +74,8 @@ static EventGroupHandle_t event_group = NULL;
 /*!
  * @brief Main function
  */
+
+// I don't know what I'm doing I don't understand D:
 int main(void)
 {
     BOARD_InitPins();
